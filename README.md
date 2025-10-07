@@ -1,3 +1,4 @@
+## SAMPLE SMART, NOT HARD: CORRECTNESS-FIRST DECODING FOR BETTER REASONING IN LLMS
 This repository contains utilities to:
 - Evaluate models via the lm-eval-harness using vLLM (`run.py`)
 - Generate per-step probability diagnostics and rank logs (`run_writeout.py`)
